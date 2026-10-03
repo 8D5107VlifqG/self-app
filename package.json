@@ -1,0 +1,15 @@
+{
+  "name": "memtrainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Тренажёр памяти",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@fontsource-variable/golos-text": "^5.0.0",
+    "@fontsource-variable/literata": "^5.0.0"
+  }
+}
